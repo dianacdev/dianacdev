@@ -34,7 +34,7 @@ I am currently attending UVU, to acquire a Bachelors in Computer Science. I am a
 <br/>
 
 ---
-###🔥 Streak Stats
+### 🔥 Streak Stats
 
 <a href="https://git.io/streak-stats">
   <img title="🔥" alt="dianacdev's streak" src="https://streak-stats.demolab.com/?user=dianacdev&theme=neon-palenight&hide_border=true"/>
