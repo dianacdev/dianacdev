@@ -35,8 +35,6 @@ I am currently attending UVU, to acquire a Bachelors in Computer Science. I am a
 
 ---
 
-<br/>
-
  <h3>🔥 Streak Stats</h3>
 
 <a href="https://git.io/streak-stats">
