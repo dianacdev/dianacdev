@@ -31,6 +31,8 @@ I am currently attending UVU, to acquire a Bachelors in Computer Science. I am a
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
 
+<br/>
+
 ### 🔥 Streak Stats
 
 <a href="https://git.io/streak-stats">
