@@ -34,8 +34,9 @@ Explanation about myself!
 #
 ### My Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dianacdev&theme=neon-palenight&hide_border=true)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="dianacdev's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dianacdev&langs_count=8&layout=compact&theme=algolia&hide_border=true&icon_color=F8D866" height="192px"/></a>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianacdev&theme=algolia&hide_border=true&show_icons=true&count_private=true)](https://github.com/dianacdev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianacdev&theme=algolia&hide_border=true)](https://github.com/dianacdev)
+
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="dianacdevs's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=dianacdev&theme=react-dark&hide_border=true"/></a>
