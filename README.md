@@ -32,3 +32,10 @@ Explanation about myself!
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
 
 #
+### My Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dianacdev&theme=neon-palenight&hide_border=true)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianacdev&theme=algolia&hide_border=true&show_icons=true&count_private=true)](https://github.com/dianacdev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianacdev&theme=algolia&hide_border=true)](https://github.com/dianacdev)
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="dianacdevs's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=dianacdev&theme=react-dark&hide_border=true"/></a>
