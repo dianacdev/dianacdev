@@ -34,14 +34,15 @@ Explanation about myself!
 #
 <br>
 
-### 🔥 Stats
+ <h3>🔥 Streak Stats</h3>
 
 <a href="https://git.io/streak-stats">
   <img title="🔥" alt="dianacdev's streak" src="https://streak-stats.demolab.com/?user=dianacdev&theme=neon-palenight&hide_border=true"/>
 </a>
 
+ <h3>💻 GitHub Profile Stats</h3>
+ 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="dianacdev's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dianacdev&langs_count=8&layout=compact&theme=algolia&hide_border=true&icon_color=F8D866" height="192px"/></a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="dianacdev's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dianacdev&show_icons=true&count_private=true&theme=algolia&hide_border=true&include_all_commits=true" height="192px"/></a>
-
+<br>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="dianacdevs's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=dianacdev&theme=react-dark&hide_border=true"/></a>
