@@ -43,7 +43,10 @@ Explanation about myself!
 </a>
 
  <h3>💻 GitHub Profile Stats</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="dianacdev's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dianacdev&show_icons=true&count_private=true&theme=algolia&hide_border=true&include_all_commits=true" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="dianacdev's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dianacdev&langs_count=8&layout=compact&theme=algolia&hide_border=true&icon_color=F8D866" height="192px"/></a>
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="dianacdev's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dianacdev&show_icons=true&count_private=true&theme=algolia&hide_border=true&include_all_commits=true" max-height="192px" width="40%"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="dianacdev's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dianacdev&langs_count=8&layout=compact&theme=algolia&hide_border=true&icon_color=F8D866" max-height="192px" width="35%"/></a>
+
 <br/>
+
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="dianacdevs's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=dianacdev&theme=react-dark&hide_border=true"/></a>
