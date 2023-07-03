@@ -1,7 +1,7 @@
 ### :movie_camera: :popcorn: Diana Cervantes
 ```Web Dev/Graphic Designer/Film Maker```
 
-I am currently attending UVU, to acquire a Bachelors in Computer Science with a Minor in Buisness Management. I am also a Dev in Test, using playwright and typescript to create end to end tests for multiple sites. As well as, using selenium and python to create automations for internal teams. I love horror movies and ARGs. Lets connect!
+I am currently attending UVU, to acquire a Bachelors in Computer Science with a Minor in Buisness Management. I am also a Junior Developr, I write and maintain websites using React, Node.js Express, SQL, Typescript and much more. Often using python to create automation scripts for internal use. I love horror movies and anything that will lead to an adventure. Lets connect!
     
 ---
 ### :toolbox: Languages and Tools
