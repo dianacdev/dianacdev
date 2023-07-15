@@ -48,4 +48,3 @@ I am currently attending UVU, to acquire a Bachelors in Computer Science with a 
 
 </br>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="dianacdevs's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=dianacdev&theme=react-dark&hide_border=true"/></a>
