@@ -2,15 +2,17 @@
 <h3 align="center">I'm a passionate and driven developer based out of Utah!</h3>
 
 - 🔭 I’m currently working on [Chatterbox](https://github.com/dianacdev/chatterbox)
-
-- 🌱 I’m currently learning **C#,.NET MAUI, Linux, and C**
-
+- 🌱 I’m currently learning **C#,.NET MAUI, Linux, and more**
+- 📎 I'm attending UVU (Utah Valley University), my current classes are:
+  -  Data Management for Data Science
+  -  Javascript Software Development
+  -  C# Software Development
+  -  Data Privacy and Security
+  -  Computer Networks II
+  -  Applied Prob/Stats for Engineers
 - 👨‍💻 All of my projects are available at [https://dianacdev.com/](https://dianacdev.com/)
-
 - 💬 Ask me about **Software Testing, Cloud Computing and more...**
-
 - 📫 How to reach me **dianacervantes.021@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/dianaac/](https://www.linkedin.com/in/dianaac/)
 
 <h3 align="left">Connect with me:</h3>
