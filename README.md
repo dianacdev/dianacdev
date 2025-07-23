@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diana Cervantes</h1>
+<h1 align="center">Hi 👋, I'm Alex Cervantes</h1>
 <h3 align="center">🌟 Passionate Developer | Lifelong Learner | Innovator from Utah 🌟</h3>
 
 ---
@@ -25,7 +25,7 @@
 ### 🌐 Connect With Me
 - 🌟 **Website:** [https://dianacdev.com/](https://dianacdev.com/)  
 - 💌 **Email:** dianacervantes.021@gmail.com  
-- 💼 **LinkedIn:** [Diana Cervantes](https://www.linkedin.com/in/dianaac/)  
+- 💼 **LinkedIn:** [Alex Cervantes](https://www.linkedin.com/in/dianaac/)  
 - 📝 **Portfolio:** [View My Projects](https://dianacdev.com/)  
 
 <p align="left">
